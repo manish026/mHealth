@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">mHealth</string>
+    <string name="loginTitle">Login</string>
+    <array name="specialism">
+        <item>Select Specialisation</item>
+        <item>Test1</item>
+        <item>Test2</item>
+        <item>Test3</item>
+
+    </array>
+
+    <!--Hints for EditText-->
+
+    <string name="fnameHint">Firstname</string>
+    <string name="lnameHint">Lastname</string>
+    <string name="emailHint">Email</string>
+    <string name="passwordHint">Password</string>
+    <string name="cpasswordHint">Confirm Password</string>
+    <string name="uidHint">UID no.</string>
+    <string name="licenseHint">License no.</string>
+    <string name="addressHint">Address</string>
+
+
+    <!--  URLS -->
+
+    <string name="baseURL">http://192.168.0.101/mhealth/</string>
+    <string name="patientURL">http://192.168.0.101/mhealth/patients.php</string>
+    <string name="pharmacyURL">http://192.168.0.101/mhealth/pharmacy.php</string>
+    <string name="doctorURL">http://192.168.0.101/mhealth/doctors.php</string>
+    <string name="uploadURL">http://192.168.0.101/mhealth/upload.php</string>
+
+
+    <!--Screen Titles-->
+    <string name="patient_dashboard">Dashboard</string>
+    <string name="upload_activity">License Upload</string>
+    <string name="alarm_activity">Set medicine alarm</string>
+
+
+</resources>
+
